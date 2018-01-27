@@ -1,2 +1,2 @@
 # promise
-An implement of Promises/A+
+Yet another implement of [Promises/A+](https://promisesaplus.com/)
