@@ -1,6 +1,6 @@
 {
   "name": "easy-es6-promise",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Yet another implement of Promise/A+",
   "main": "index.js",
   "scripts": {
